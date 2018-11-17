@@ -1,7 +1,7 @@
 # Zipcode
 
 Zipcode class is created to return zip code and bar code to the tester. The first half of the code
-is constructed to covert zip code to bar code and the other half of the code is constructed to 
+is constructed to covert zip code to bar code and the other half is constructed to 
 convert bar code to zip code.
 
 To convert zip code to bar code, first, the input integers is converted to string using toString()
